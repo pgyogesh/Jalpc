@@ -41,9 +41,20 @@
 
 - id: Photography
   page: http://pgyogesh.com/photography
- 
+  css: testimonials navy-section
+  i18n: 
+  name: 
+  tpl: 
+  
 - id: Resume
   page: https://pgyogesh.com/online-cv
-
+  css: testimonials navy-section
+  i18n: 
+  name: 
+  tpl: 
+  
 - id: Travel
   page: http://pgyogesh.com/blog/travel
+  i18n:
+  name:
+  tpl: 
