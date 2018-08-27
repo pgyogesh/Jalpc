@@ -1,10 +1,12 @@
 # index page sections
 # custom following lines to edit your index page
-- id: about-me
-  i18n: nav.about_me
-  name: About
-  tpl: about.html
-  css:
+
+
+#- id: about-me
+#  i18n: nav.about_me
+#  name: About
+#  tpl: about.html
+#  css:
 
 - id: career
   i18n: nav.career
@@ -25,9 +27,9 @@
   css: project
 
 - id: blog
-  i18n: nav.blog
+  #i18n: nav.blog
   name: Blog
-  tpl: blog.html
+  #tpl: blog.html
   page: blog/
   css: testimonials navy-section
 
@@ -36,3 +38,12 @@
   name: Links
   tpl: links.html
   css: contact
+
+- id: Photography
+  page: http://pgyogesh.com/photography
+ 
+- id: Resume
+  page: https://pgyogesh.com/online-cv
+
+- id: Travel
+  page: http://pgyogesh.com/blog/travel
