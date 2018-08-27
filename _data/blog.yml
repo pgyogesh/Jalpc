@@ -4,10 +4,10 @@
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
 - name: Photography
-  href: http://pgyogesh.com/photography
+  href: 'http://pgyogesh.com/photography'
 
 - name: Resume
-  href: http://pgyogesh.com/online-cv
+  href: 'http://pgyogesh.com/online-cv'
 
 - name: Travel Map
-  href: http://pgyogesh.com/blog/travel/
+  href: 'http://pgyogesh.com/blog/travel'
